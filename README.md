@@ -26,7 +26,8 @@ Hasil CRUD pasien:
 ![image](https://github.com/user-attachments/assets/dd57835b-c7a1-48aa-9ae1-3d52a165ba7c)
 
 Database pasien :
-![image](https://github.com/user-attachments/assets/86acd0b7-9c5d-4a81-9813-71250fcb0a49)
+![image](https://github.com/user-attachments/assets/5e9049c2-5f8a-43ff-ae13-4bff7a36b5c5)
+
 
 Database users :
 ![image](https://github.com/user-attachments/assets/c904709a-e7c2-478f-92f9-e51d88cc5cf6)
