@@ -30,3 +30,18 @@ Database pasien :
 
 Database users :
 ![image](https://github.com/user-attachments/assets/c904709a-e7c2-478f-92f9-e51d88cc5cf6)
+
+CRUD lewat web:
+Tambah
+![image](https://github.com/user-attachments/assets/fd05b6ec-7036-48fc-8ba6-4f1c42759b85)
+![image](https://github.com/user-attachments/assets/51840355-0a59-47ca-851a-98fae24e42ff)
+
+Edit
+![image](https://github.com/user-attachments/assets/f801b479-cc49-4a41-9a09-b50ce9836e47)
+![image](https://github.com/user-attachments/assets/b3ad2b95-e19f-4ceb-b863-3af1bd0c13f0)
+
+Delete
+![image](https://github.com/user-attachments/assets/27ea482e-8fff-40c7-9f84-871663d97529)
+
+
+
